@@ -1,0 +1,28 @@
+html {
+  background-color: rgba(177, 112, 69, 0.829);
+}
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Verdana, sans-serif;
+  color: rgb(92, 56, 30);
+  text-align:center
+}
+
+h2 {
+  color: sienna;
+}
+body {
+  background-color: rgb(255, 255, 255);
+  border: 4px solid burlywood;
+  width: 500px;
+  margin: 50px auto;
+  padding: 25px 75px;
+  border-radius: 10px;
+}
+a:hover {
+  text-decoration: underline;
+}
+.centered {
+  width:80%;
+  margin:auto; 
+}
